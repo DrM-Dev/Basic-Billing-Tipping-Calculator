@@ -16,7 +16,7 @@ final_bill = round(bill_after_split,2)   #just to round the number to get $00.00
 print(f"each person should pay ${final_bill} ")
 
 #something extra I'd love to add:
-print(f"\n\nthe tiping amount from the total cost was: ${bill_with_tip}")
+print(f"\n\nthe tipping amount from the total cost was: ${bill_with_tip}")
 
 input("the results are here, exit?")
 input("cya and take care :)")
